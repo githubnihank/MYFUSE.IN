@@ -1,0 +1,1417 @@
+
+
+
+
+index.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Alegreya Sans:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=IM Fell English:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-1">
+      <img class="desktop-1-child" alt="" src="./public/rectangle-7.svg" />
+
+      <header class="desktop-1-inner">
+        <div class="frame-parent">
+          <div class="frame-group">
+            <div class="sign-in-parent">
+              <div class="sign-in">Sign in</div>
+              <img class="enter-icon" alt="" src="./public/enter@2x.png" />
+            </div>
+            <div class="rectangle-parent">
+              <div class="frame-child"></div>
+              <h1 class="myfusein">MyFuse.In</h1>
+              <div class="frame-wrapper">
+                <div class="frame-container">
+                  <button class="rectangle-group">
+                    <div class="frame-item"></div>
+                    <img
+                      class="ai-file-icon"
+                      alt=""
+                      src="./public/ai-file@2x.png"
+                    />
+
+                    <div class="try-ai-resume-wrapper">
+                      <div class="try-ai-resume">Try AI Resume</div>
+                    </div>
+                  </button>
+                  <div class="vector-wrapper">
+                    <img
+                      class="frame-inner"
+                      alt=""
+                      src="./public/rectangle-2.svg"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-listvariant3">
+            <div class="item"></div>
+            <div class="item1">
+              <div class="item2">
+                <div class="jobs">Jobs</div>
+                <div class="link-wrapper">
+                  <img class="link-icon" alt="" src="./public/link.svg" />
+                </div>
+              </div>
+            </div>
+            <div class="item3">
+              <div class="link-blogs">Blogs</div>
+            </div>
+            <div class="item4">
+              <div class="link-contact">Contact</div>
+            </div>
+          </div>
+          <div class="rectangle-container">
+            <div class="rectangle-div"></div>
+            <input class="frame-input" placeholder="Search " type="text" />
+
+            <div class="line-div"></div>
+            <div class="search-wrapper">
+              <img class="search-icon" alt="" src="./public/search@2x.png" />
+            </div>
+          </div>
+        </div>
+      </header>
+      <section class="frame-section">
+        <div class="frame-child1"></div>
+        <b class="heading-2">Your Gateway to Infinite Opportunities</b>
+        <div class="frame-div">
+          <div class="frame-parent1">
+            <div class="frame-wrapper1">
+              <div class="discover-a-world-of-opportunit-parent">
+                <div class="discover-a-world-container">
+                  <span>
+                    <p class="discover-a-world">
+                      Discover a world of opportunities with internships,
+                      projects, and a gateway to your professional future.
+                    </p>
+                    <p class="join-a-vibrant">
+                      Join a vibrant community that paves the way to success.
+                    </p>
+                  </span>
+                </div>
+                <div class="frame-wrapper2">
+                  <button class="frame-button">
+                    <div class="frame-child2"></div>
+                    <div class="open-the-gateway">Open the Gateway</div>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div class="component-parent">
+              <div class="rectangle-parent1">
+                <div class="component-child"></div>
+                <div class="elevate-your-skills-and-embran-wrapper">
+                  <div class="elevate-your-skills-container">
+                    <p class="elevate-your-skills">
+                      Elevate your skills and embrance growth with our Regular
+                      Challenge
+                    </p>
+                    <p class="a-daily-journey">
+                      a daily journey to unlock your full potential
+                    </p>
+                  </div>
+                </div>
+                <div class="rectangle-parent2">
+                  <div class="frame-child3"></div>
+                  <img
+                    class="yellow-cup-with-a-star"
+                    alt=""
+                    src="./public/yellow-cup-with-a-star@2x.png"
+                  />
+                </div>
+                <div class="condition-splitter">
+                  <div class="image-container-parent">
+                    <div class="image-container">
+                      <img
+                        class="list-item-icon"
+                        alt=""
+                        src="./public/list-item@2x.png"
+                      />
+
+                      <div class="myfuse-design">
+                        Myfuse : Design & Code Competiton
+                      </div>
+                    </div>
+                    <div class="design-your-future-container">
+                      <p class="design-your-future">Design your Future,</p>
+                      <p class="code-your-success">Code your Success</p>
+                    </div>
+                  </div>
+                  <div class="multiplier">
+                    <div class="divider">
+                      <div class="summator">
+                        <div class="input-selector">15, 000/-</div>
+                      </div>
+                      <div class="output-selector">
+                        <div class="constant-value"></div>
+                        <b class="registration-now">Registration Now</b>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <img class="rupee-icon" alt="" src="./public/rupee@2x.png" />
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="if-statement">
+        <div class="else-statement">
+          <div class="while-loop">
+            <div class="for-loop">
+              <div class="switch-case">
+                <b class="heading-21">Job Fuse</b>
+              </div>
+              <div class="unlock-endless-career">
+                Unlock endless career possibilities with Myfuse – the platform
+                that bridges gap between Students and Job opportunities in
+                India.
+              </div>
+            </div>
+          </div>
+          <div class="assignment-operator-wrapper">
+            <div class="assignment-operator">
+              <div class="divicon-box">
+                <div class="logical-operator">
+                  <div class="arithmetic-operator">
+                    <div class="relational-operator">
+                      <b class="heading-4">Right Job For You</b>
+                    </div>
+                    <img
+                      class="divicon"
+                      loading="lazy"
+                      alt=""
+                      src="./public/divicon.svg"
+                    />
+                  </div>
+                </div>
+                <div class="myfuses-comprehensive-platfor-container">
+                  <p class="myfuses-comprehensive-platfor">
+                    Myfuse's comprehensive platform
+                  </p>
+                  <p class="is-designed-to">
+                    is designed to help you discover the
+                  </p>
+                  <p class="right-job-for">right job for you.</p>
+                </div>
+              </div>
+              <div class="divicon-box1">
+                <div class="frame-parent2">
+                  <div class="heading-4-link-one-to-one-parent">
+                    <b class="heading-41">One to One Coverstatiion With</b>
+                    <div class="heading-4-link-hrs-wrapper">
+                      <b class="heading-42">HR's</b>
+                    </div>
+                  </div>
+                  <div class="divicon-wrapper">
+                    <img class="divicon1" alt="" src="./public/divicon-1.svg" />
+                  </div>
+                </div>
+                <div class="myfuse-offers-the-unique-advan-wrapper">
+                  <div class="myfuse-offers-the-container">
+                    <p class="myfuse-offers-the">MyFuse offers the unique</p>
+                    <p class="advantage-of-one-to-one">
+                      advantage of one-to-one
+                    </p>
+                    <p class="conversations-with-hr">conversations with HR</p>
+                    <p class="professionals">professionals</p>
+                  </div>
+                </div>
+              </div>
+              <div class="decorator">
+                <div class="divicon-box2">
+                  <div class="divicon-box-inner">
+                    <div class="divicon-parent">
+                      <img
+                        class="divicon2"
+                        alt=""
+                        src="./public/divicon-2.svg"
+                      />
+
+                      <b class="heading-43">No Work Experiance required</b>
+                    </div>
+                  </div>
+                  <div class="myfuse-welcomes-applicants-container">
+                    <p class="myfuse-welcomes-applicants">
+                      Myfuse welcomes applicants with
+                    </p>
+                    <p class="no-work-experience">
+                      no work experience, providing
+                    </p>
+                    <p class="valuable-opportunities-and">
+                      valuable opportunities and
+                    </p>
+                    <p class="resources">resources .</p>
+                  </div>
+                </div>
+              </div>
+              <div class="divicon-box3">
+                <div class="divicon-box-child">
+                  <div class="frame-parent3">
+                    <div class="heading-4-link-easy-to-app-wrapper">
+                      <b class="heading-44">Easy To Apply</b>
+                    </div>
+                    <img class="divicon3" alt="" src="./public/divicon-3.svg" />
+                  </div>
+                </div>
+                <div class="myfuses-straightforward-appli-container">
+                  <p class="myfuses-straightforward">
+                    Myfuse's straightforward
+                  </p>
+                  <p class="application-process-is">
+                    application process is designed to
+                  </p>
+                  <p class="be-easy-to">be easy to apply .</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="else-statement-inner">
+            <div class="frame-parent4">
+              <div class="heading-2-top-categories-wrapper">
+                <b class="heading-22">top Categories</b>
+              </div>
+              <div class="high-demand-job-categories">
+                High-demand job categories feature software development,
+                nursing, and digital marketing roles
+              </div>
+            </div>
+          </div>
+          <div class="input-processor-parent">
+            <div class="input-processor">
+              <div class="divsingle-services">
+                <img
+                  class="icon"
+                  loading="lazy"
+                  alt=""
+                  src="./public/icon.svg"
+                />
+
+                <b class="heading-5">Education</b>
+              </div>
+            </div>
+            <div class="divsingle-services-wrapper">
+              <div class="divsingle-services1">
+                <div class="icon-wrapper">
+                  <img class="icon1" alt="" src="./public/icon-1.svg" />
+                </div>
+                <b class="heading-51">Retail and Consumer</b>
+              </div>
+            </div>
+            <div class="divsingle-services2">
+              <div class="value-extractor">
+                <img class="icon2" alt="" src="./public/icon-2.svg" />
+              </div>
+              <b class="heading-52">Travel And Tourism</b>
+            </div>
+            <div class="divsingle-services-container">
+              <div class="divsingle-services3">
+                <div class="icon-container">
+                  <img class="icon3" alt="" src="./public/icon-3.svg" />
+                </div>
+                <b class="heading-53">Transportation and Logistics</b>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="compressor">
+        <div class="main-section">
+          <div class="accumulator">
+            <div class="mapper">
+              <div class="reducer">
+                <div class="aggregator">
+                  <b class="heading-23">Company Spotlight</b>
+                </div>
+                <div class="discover-the-essence">
+                  Discover the essence of company in the Spotlight. Learn more
+                  about the mission, values, and achievements. Get a closer look
+                  at what sets this the company apart.
+                </div>
+              </div>
+            </div>
+            <div class="transform-plus">
+              <div class="compressor-plus">
+                <h2 class="heading-3-container">
+                  <p class="unlocking-your-professional">
+                    Unlocking Your Professional
+                  </p>
+                  <p class="future">Future:</p>
+                </h2>
+                <div class="sorter-plus">
+                  <div class="calculator-plus">
+                    <div class="in-the-fast-paced-container">
+                      <span class="in-the-fast-paced-container1">
+                        <p class="in-the-fast-paced">
+                          In the fast-paced and competitive job market, students
+                          face the
+                        </p>
+                        <p class="challenge-of-not">
+                          challenge of not only excelling academically but also
+                          becoming
+                        </p>
+                        <p class="employable-even-before">
+                          employable even before graduation. This blog aims to
+                          guide you
+                        </p>
+                        <p class="through-the-journey">
+                          through the journey of enhancing your employability
+                          while still
+                        </p>
+                        <p class="studying-providing-practical">
+                          studying, providing practical tips to set you on the
+                          path to a successful
+                        </p>
+                        <p class="and-fulfilling-career">
+                          and fulfilling career.
+                        </p>
+                      </span>
+                    </div>
+                    <button class="link">
+                      <div class="read-more">Read More</div>
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div class="mapper-plus">
+                <div class="reducer-plus">
+                  <div class="wrapper-myfuseinpng">
+                    <img
+                      class="myfuseinpng-icon"
+                      loading="lazy"
+                      alt=""
+                      src="./public/myfuseinpng@2x.png"
+                    />
+                  </div>
+                  <div class="wrapper-myfuseinpng1">
+                    <img
+                      class="myfuseinpng-icon1"
+                      alt=""
+                      src="./public/myfuseinpng-1@2x.png"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="transform-expert">
+            <div class="compressor-expert">
+              <div class="expander-expert">
+                <img
+                  class="group-1-8-swpng"
+                  loading="lazy"
+                  alt=""
+                  src="./public/group--1--8--swpng@2x.png"
+                />
+              </div>
+              <div class="expander-expert1">
+                <img
+                  class="group-2-8-screenshot202"
+                  loading="lazy"
+                  alt=""
+                  src="./public/group--2--8--screenshot202023093020at202061420pmpng@2x.png"
+                />
+              </div>
+              <div class="expander-expert2">
+                <img
+                  class="group-3-8-screenshot202"
+                  loading="lazy"
+                  alt=""
+                  src="./public/group--3--8--screenshot202023093020at201050020pmpng@2x.png"
+                />
+              </div>
+              <div class="expander-expert3">
+                <img
+                  class="group-4-8-screenshot202"
+                  alt=""
+                  src="./public/group--4--8--screenshot202023093020at202003120pmpng@2x.png"
+                />
+              </div>
+              <div class="expander-expert4">
+                <img
+                  class="group-5-8-screenshot202"
+                  loading="lazy"
+                  alt=""
+                  src="./public/group--5--8--screenshot202023093020at201251920pmpng@2x.png"
+                />
+              </div>
+              <img
+                class="group-6-8-screenshot202"
+                loading="lazy"
+                alt=""
+                src="./public/group--6--8--screenshot202023093020at201134320pmpng@2x.png"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="divsingle-services4">
+          <div class="calculator-expert-plus">
+            <img class="icon4" alt="" src="./public/icon-4.svg" />
+          </div>
+          <b class="heading-54">Engineering and Manufacturing</b>
+        </div>
+        <div class="divsingle-services5">
+          <div class="icon-frame">
+            <img class="icon5" alt="" src="./public/icon-5.svg" />
+          </div>
+          <b class="heading-55">Finance and banking</b>
+        </div>
+        <div class="divsingle-services6">
+          <div class="icon-wrapper1">
+            <img class="icon6" alt="" src="./public/icon-6.svg" />
+          </div>
+          <b class="heading-56">Health Care</b>
+        </div>
+        <div class="divsingle-services7">
+          <div class="icon-wrapper2">
+            <img class="icon7" alt="" src="./public/icon-7.svg" />
+          </div>
+          <b class="heading-57">Technology And IT</b>
+        </div>
+      </section>
+      <section class="main">
+        <div class="validator-expert">
+          <h1 class="heading-24">How It Works</h1>
+        </div>
+        <div class="mapper-expert">
+          <div class="reducer-expert">
+            <div class="divmerekonhipta">
+              <div class="filter-genius">
+                <div class="modifier-expert-plus">
+                  <img class="icon8" alt="" src="./public/icon-8.svg" />
+
+                  <h2 class="heading-58">1. Search a job</h2>
+                </div>
+              </div>
+              <div class="looking-for-your-container">
+                <span class="looking-for-your-container1">
+                  <p class="looking-for-your">
+                    Looking for your next career opportunity?
+                  </p>
+                  <p class="explore-our-job">
+                    Explore our job listings and find the perfect
+                  </p>
+                  <p class="match-for-your">
+                    match for your skills and aspirations. Your
+                  </p>
+                  <p class="dream-job-may">
+                    dream job may be just a click away!
+                  </p>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="divmerekonhipta1">
+            <div class="data-aggregator">
+              <div class="nested-list-parent">
+                <div class="nested-list">
+                  <img class="icon9" alt="" src="./public/icon-9.svg" />
+
+                  <div class="input-validator">
+                    <b class="heading-59">2. Apply for job</b>
+                  </div>
+                </div>
+                <div class="ready-to-take-the-next-step-in-wrapper">
+                  <div class="ready-to-take-container">
+                    <p class="ready-to-take">
+                      Ready to take the next step in your career?
+                    </p>
+                    <p class="browse-our-job">
+                      Browse our job openings and start your
+                    </p>
+                    <p class="application-process-today">
+                      application process today. Your future awaits –
+                    </p>
+                    <p class="apply-for-your">apply for your dream job now!.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="divsingle-process">
+              <div class="progress-indicator-parent">
+                <div class="progress-indicator">
+                  <img class="icon10" alt="" src="./public/icon-10.svg" />
+                </div>
+                <b class="heading-510">3. Get your job</b>
+              </div>
+              <div class="unlock-your-career-potential-w-wrapper">
+                <div class="unlock-your-career-container">
+                  <p class="unlock-your-career">
+                    Unlock your career potential with us! Browse
+                  </p>
+                  <p class="through-our-job">
+                    through our job listings and take the first step
+                  </p>
+                  <p class="towards-securing-your">
+                    towards securing your dream job. Your future
+                  </p>
+                  <p class="career-is-just">
+                    career is just a few clicks away..
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="dropdown-list">
+        <div class="link-component">
+          <div class="table-row">
+            <div class="table-column">
+              <div class="toggle-switch-parent">
+                <div class="toggle-switch">
+                  <b class="heading-25">Recent Job</b>
+                </div>
+                <div class="recent-job-trends">
+                  Recent job trends highlight positions in data analysis,
+                  telemedicine, and remote project management.
+                </div>
+              </div>
+            </div>
+            <div class="grid-layout">
+              <div class="star-rating-component">
+                <div class="divsingle-job-items">
+                  <div class="multi-select-checkbox">
+                    <img
+                      class="link-screenshot202024-01-24"
+                      loading="lazy"
+                      alt=""
+                      src="./public/link--screenshot202024012420at2012313520pmpng@2x.png"
+                    />
+                  </div>
+                  <div class="tooltip-component">
+                    <div class="form-field-container">
+                      <div class="link-heading">Deloitte</div>
+                      <div class="stepper-component">
+                        <button class="link1">
+                          <div class="full-time">Full Time</div>
+                        </button>
+                      </div>
+                    </div>
+                    <div class="quote-mark-component-parent">
+                      <div class="quote-mark-component">
+                        <div class="list-item">Technology and IT</div>
+                        <div class="info-bubble-with-icon">
+                          <div class="data-aggregator1">
+                            <div class="symbol"></div>
+                          </div>
+                          <div class="list-item1">Bengaluru</div>
+                        </div>
+                      </div>
+                      <div class="list-item2">Job Role : Associate Analyst</div>
+                    </div>
+                    <div class="spinner-component">
+                      <div class="list-item3">Not Disclosed</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="progress-bar">
+                  <div class="divsingle-job-items1">
+                    <div class="multi-select-checkbox1">
+                      <img
+                        class="link-screenshot202024-01-241"
+                        loading="lazy"
+                        alt=""
+                        src="./public/link--screenshot202024012420at2012282620pmpng@2x.png"
+                      />
+                    </div>
+                    <div class="color-picker-component">
+                      <div class="range-slider-with-thumbs">
+                        <div class="data-processor-wrapper">
+                          <div class="data-processor">
+                            <h2 class="link-heading1">AIRBUS</h2>
+                            <div class="image-analyzer">
+                              <div class="list-item4">Technology and IT</div>
+                              <div class="list-item5">
+                                Job Role : Data Analyst
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="geometry-transformer">
+                          <div class="data-aggregator-parent">
+                            <div class="data-aggregator2">
+                              <div class="symbol1"></div>
+                            </div>
+                            <div class="list-item6">Bangalore Area</div>
+                          </div>
+                        </div>
+                        <button class="link2">
+                          <div class="full-time1">Full Time</div>
+                        </button>
+                      </div>
+                      <div class="geometry-scaler">
+                        <div class="list-item7">Not Disclosed</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="data-combiner-wrapper">
+                <div class="data-combiner">
+                  <div class="divsingle-job-items2">
+                    <div class="link-screenshot202024-01-24-wrapper">
+                      <img
+                        class="link-screenshot202024-01-242"
+                        loading="lazy"
+                        alt=""
+                        src="./public/link--screenshot202024012420at2012252620pmpng@2x.png"
+                      />
+                    </div>
+                    <div class="geometry-shifter">
+                      <div class="sequence-merger">
+                        <div class="link-heading-4-bajaj-allia-parent">
+                          <h2 class="link-heading2">Bajaj Allianz</h2>
+                          <div class="image-cropping">
+                            <div class="list-item-technology-and-i-parent">
+                              <div class="list-item8">Technology and IT</div>
+                              <div class="geometry-combiner">
+                                <div class="data-aggregator3">
+                                  <div class="symbol2"></div>
+                                </div>
+                                <div class="list-item9">Begusarai – Ext</div>
+                              </div>
+                            </div>
+                            <div class="list-item10">
+                              Job Role : Junior Service Engineer
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="link-parent">
+                        <button class="link3">
+                          <div class="full-time2">Full Time</div>
+                        </button>
+                        <div class="list-item-45-lpa-expecte-wrapper">
+                          <div class="list-item11">4.5 LPA (Expected)</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="geometry-smoother">
+                    <div class="divsingle-job-items3">
+                      <div class="link-screenshot202024-01-24-container">
+                        <img
+                          class="link-screenshot202024-01-243"
+                          loading="lazy"
+                          alt=""
+                          src="./public/link--screenshot202024012420at2012221220pmpng@2x.png"
+                        />
+                      </div>
+                      <div class="image-rotater">
+                        <div class="data-splitter-parent">
+                          <div class="data-splitter">
+                            <div class="geometry-detector">
+                              <div class="link-heading3">Amdocs</div>
+                              <div class="link-container">
+                                <button class="link4">
+                                  <div class="full-time3">Full Time</div>
+                                </button>
+                              </div>
+                            </div>
+                            <div class="data-merger-parent">
+                              <div class="data-merger">
+                                <div class="list-item12">Technology and IT</div>
+                              </div>
+                              <div class="data-aggregator-group">
+                                <div class="data-aggregator4">
+                                  <div class="symbol3"></div>
+                                </div>
+                                <div class="list-item13">Pune, Maharashtra</div>
+                              </div>
+                              <div class="shape-container">
+                                <div class="link-active">Active</div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="list-item14">
+                            Job Role : IT Professional – Windows /OS – Fresher
+                          </div>
+                        </div>
+                        <div class="size-adjustor">
+                          <div class="list-item15">4 – 6 LPA (Estimated)</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="link-frame">
+            <button class="link5">
+              <div class="show-more">Show More</div>
+            </button>
+          </div>
+        </div>
+      </section>
+      <section class="section">
+        <div class="effect-applier">
+          <div class="grid-organizer">
+            <div class="divherocarousel">
+              <div class="divcol-lg-6">
+                <div class="divstats-item">
+                  <b class="canvas-configuration">2500</b>
+                  <b class="strong-active">Active Students</b>
+                  <h1 class="collision-detector">+</h1>
+                </div>
+                <div class="divstats-item1">
+                  <b class="b">3000</b>
+                  <b class="strong-jobs">Jobs</b>
+                  <h1 class="h1">+</h1>
+                </div>
+                <div class="divstats-item2">
+                  <b class="b1">5500</b>
+                  <b class="strong-active1">Active Applications</b>
+                  <h1 class="h11">+</h1>
+                </div>
+              </div>
+              <h3 class="what-the-company-container">
+                <p class="what-the-company">
+                  what the company will provide includes:
+                </p>
+                <p class="p"></p>
+                <p class="we-will-provide">
+                  "We will provide a dynamic and inclusive work environment,
+                  opportunities for professional growth, competitive
+                  compensation and benefits, and the chance to work on
+                  innovative projects with a talented team."
+                </p>
+              </h3>
+            </div>
+            <img
+              class="jobssjpg-icon"
+              loading="lazy"
+              alt=""
+              src="./public/jobssjpg@2x.png"
+            />
+          </div>
+        </div>
+        <img class="svg-icon" loading="lazy" alt="" src="./public/svg.svg" />
+      </section>
+      <section class="main1">
+        <div class="before"></div>
+        <b class="make-a-difference-container">
+          <span class="make-a-difference-container1">
+            <span>Make a Difference with Your Online </span>
+            <span class="ai">AI</span>
+            <span> Resume!</span>
+          </span>
+        </b>
+        <div class="reflector">
+          <button class="link6">
+            <div class="link-paints">
+              <div class="generate-resume-using">Generate Resume using AI</div>
+            </div>
+          </button>
+        </div>
+      </section>
+      <section class="footer">
+        <div class="oval-tool-wrapper">
+          <div class="oval-tool">
+            <div class="rectangle-parent3">
+              <div class="instance-child"></div>
+              <div class="star-tool">
+                <div class="elevate-your-skills-container1">
+                  <p class="elevate-your-skills1">
+                    Elevate your skills and embrance growth with our Regular
+                    Challenge
+                  </p>
+                  <p class="a-daily-journey1">
+                    a daily journey to unlock your full potential
+                  </p>
+                </div>
+              </div>
+              <div class="filled-shape-tool">
+                <div class="filled-shape-tool-child"></div>
+                <img
+                  class="yellow-cup-with-a-star1"
+                  alt=""
+                  src="./public/yellow-cup-with-a-star-1@2x.png"
+                />
+              </div>
+              <div class="linked-shape-tool">
+                <div class="frame-parent5">
+                  <div class="mask-tool-parent">
+                    <img
+                      class="mask-tool-icon"
+                      alt=""
+                      src="./public/rectangle-9-1@2x.png"
+                    />
+
+                    <div class="myfuse-design1">
+                      Myfuse : Design & Code Competiton
+                    </div>
+                  </div>
+                  <div class="design-your-future-container1">
+                    <p class="design-your-future1">Design your Future,</p>
+                    <p class="code-your-success1">Code your Success</p>
+                  </div>
+                </div>
+                <div class="contrast-adjustor">
+                  <div class="hue-changer">
+                    <div class="saturation-booster">
+                      <div class="value-enhancer">15, 000/-</div>
+                    </div>
+                    <div class="blend-mode-changer">
+                      <div class="effect-collection"></div>
+                      <b class="registration-now1"> Registration Now</b>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <img class="rupee-icon1" alt="" src="./public/rupee-1@2x.png" />
+          </div>
+        </div>
+        <div class="image-analyzer1">
+          <div class="number-cruncher">
+            <div class="string-modifier">
+              <div class="array-handler">
+                <div class="heading-45">Join Our Newsletter</div>
+              </div>
+              <div class="stay-in-the-container">
+                <p class="stay-in-the">
+                  "Stay in the loop and never miss out on our latest updates and
+                  exclusive content.
+                </p>
+                <p class="subscribe-to-our">
+                  Subscribe to our newsletter to receive fresh insights and news
+                  delivered right to your
+                </p>
+                <p class="inbox">inbox."</p>
+              </div>
+            </div>
+          </div>
+          <div class="form">
+            <div class="size-adjuster">
+              <div class="email">Email*</div>
+            </div>
+            <button class="input">
+              <div class="subscribe">Subscribe</div>
+            </button>
+          </div>
+        </div>
+      </section>
+      <img
+        class="growth-arrow-and-crypto-coins"
+        loading="lazy"
+        alt=""
+        src="./public/growth-arrow-and-crypto-coins-next-to-successful-businessman@2x.png"
+      />
+
+      <section class="loop-controller">
+        <div class="input-processor1">
+          <div class="output-generator">
+            <div class="error-handler">
+              <div class="connectors">
+                <div class="heading-26">What Graduates Say About Myfuse!</div>
+              </div>
+              <div class="discover-what-our-container">
+                <p class="discover-what-our">
+                  Discover what our satisfied customers have to say about their
+                  experiences with our products and services. Read these
+                  testimonials to gain insights into the positive impact
+                </p>
+                <p class="weve-had-on">we've had on their lives</p>
+              </div>
+              <div class="heading-27"></div>
+            </div>
+          </div>
+          <div class="triggers">
+            <div class="divslides-3">
+              <div class="filters">
+                <div class="group-1-4">
+                  <div class="search-engine">
+                    <div class="comparators">
+                      <img
+                        class="shreya20saraiwalajpg-icon"
+                        loading="lazy"
+                        alt=""
+                        src="./public/shreya20saraiwalajpg@2x.png"
+                      />
+
+                      <div class="aggregators">
+                        <div class="combiner">
+                          <div class="sequencer">
+                            <b class="heading-3">Sneha Kumari</b>
+                            <div class="heading-46">SDE</div>
+                          </div>
+                          <div class="combiner-inner">
+                            <div class="icon-parent">
+                              <img
+                                class="icon11"
+                                alt=""
+                                src="./public/icon-11.svg"
+                              />
+
+                              <img
+                                class="icon12"
+                                alt=""
+                                src="./public/icon-11.svg"
+                              />
+
+                              <img
+                                class="icon13"
+                                alt=""
+                                src="./public/icon-11.svg"
+                              />
+
+                              <img
+                                class="icon14"
+                                alt=""
+                                src="./public/icon-11.svg"
+                              />
+
+                              <img
+                                class="icon15"
+                                alt=""
+                                src="./public/icon-15.svg"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="frame-parent6">
+                    <div class="frame-parent7">
+                      <div class="icon-wrapper3">
+                        <img class="icon16" alt="" src="./public/icon-16.svg" />
+                      </div>
+                      <div class="with-the-help-of-myfuse-i-was-wrapper">
+                        <i class="with-the-help">
+                          "With the help of Myfuse, I was able</i
+                        >
+                      </div>
+                    </div>
+                    <div class="to-land-my-dream-job-as-a-soft-wrapper">
+                      <i class="to-land-my-container">
+                        <p class="to-land-my">
+                          to land my dream job as a software
+                        </p>
+                        <p class="developer-the-messaging">
+                          developer. The messaging feature
+                        </p>
+                        <p class="allowed-me-to">
+                          allowed me to connect directly with HR
+                        </p>
+                        <p class="representatives-and-clarify">
+                          representatives and clarify any doubts I
+                        </p>
+                        <p class="had-making-the">
+                          had, making the job application process
+                        </p>
+                      </i>
+                    </div>
+                  </div>
+                  <div class="so-much-easier-wrapper">
+                    <i class="so-much-easier">so much easier." </i>
+                  </div>
+                  <img class="icon17" alt="" src="./public/icon-17.svg" />
+                </div>
+                <div class="group-2-4">
+                  <div class="group-2-4-inner">
+                    <div class="rahuljpeg-parent">
+                      <img
+                        class="rahuljpeg-icon"
+                        loading="lazy"
+                        alt=""
+                        src="./public/rahuljpeg@2x.png"
+                      />
+
+                      <div class="frame-wrapper3">
+                        <div class="frame-parent8">
+                          <div class="heading-3-rahul-paul-parent">
+                            <b class="heading-31">Rahul Paul</b>
+                            <div class="heading-47">UI/UX Designer</div>
+                          </div>
+                          <div class="frame-wrapper4">
+                            <div class="icon-group">
+                              <img
+                                class="icon18"
+                                alt=""
+                                src="./public/icon-18.svg"
+                              />
+
+                              <img
+                                class="icon19"
+                                alt=""
+                                src="./public/icon-19.svg"
+                              />
+
+                              <img
+                                class="icon20"
+                                alt=""
+                                src="./public/icon-20.svg"
+                              />
+
+                              <img
+                                class="icon21"
+                                alt=""
+                                src="./public/icon-21.svg"
+                              />
+
+                              <img
+                                class="icon22"
+                                alt=""
+                                src="./public/icon-22.svg"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="frame-parent9">
+                    <div class="frame-parent10">
+                      <div class="icon-wrapper4">
+                        <img class="icon23" alt="" src="./public/icon-23.svg" />
+                      </div>
+                      <div class="myfuse-offered-me-a-wide-range-wrapper">
+                        <i class="myfuse-offered-me">
+                          "Myfuse offered me a wide range of</i
+                        >
+                      </div>
+                    </div>
+                    <div class="job-opportunities-across-vario-wrapper">
+                      <i class="job-opportunities-across-container">
+                        <span>
+                          <p class="job-opportunities-across">
+                            job opportunities across various
+                          </p>
+                          <p class="industries-i-was">
+                            industries. I was able to use the
+                          </p>
+                          <p class="messaging-feature-to">
+                            messaging feature to communicate with
+                          </p>
+                          <p class="hr-of-companies">
+                            HR of companies directly, making the job
+                          </p>
+                          <p class="application-process-seamless">
+                            application process seamless and
+                          </p>
+                        </span>
+                      </i>
+                    </div>
+                  </div>
+                  <div class="hassle-free-wrapper">
+                    <i class="hassle-free">hassle-free." </i>
+                  </div>
+                  <img class="icon24" alt="" src="./public/icon-24.svg" />
+                </div>
+                <div class="group-3-4">
+                  <div class="group-3-4-inner">
+                    <div class="gunjan-sharmajpg-parent">
+                      <img
+                        class="gunjan-sharmajpg-icon"
+                        loading="lazy"
+                        alt=""
+                        src="./public/gunjan-sharmajpg@2x.png"
+                      />
+
+                      <div class="frame-wrapper5">
+                        <div class="frame-parent11">
+                          <div class="heading-3-prerna-sinha-parent">
+                            <b class="heading-32">Prerna Sinha</b>
+                            <div class="heading-48">Consultant</div>
+                          </div>
+                          <div class="frame-wrapper6">
+                            <div class="icon-parent1">
+                              <img
+                                class="icon25"
+                                alt=""
+                                src="./public/icon-25.svg"
+                              />
+
+                              <img
+                                class="icon26"
+                                alt=""
+                                src="./public/icon-26.svg"
+                              />
+
+                              <img
+                                class="icon27"
+                                alt=""
+                                src="./public/icon-27.svg"
+                              />
+
+                              <img
+                                class="icon28"
+                                alt=""
+                                src="./public/icon-28.svg"
+                              />
+
+                              <img
+                                class="icon29"
+                                alt=""
+                                src="./public/icon-29.svg"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="frame-parent12">
+                    <div class="icon-parent2">
+                      <img class="icon30" alt="" src="./public/icon-30.svg" />
+
+                      <i class="as-a-fresher"> "As a fresher without much</i>
+                    </div>
+                    <div class="experience-job-hunting-was-ov-wrapper">
+                      <i class="experience-job-hunting-container">
+                        <span>
+                          <p class="experience-job-hunting">
+                            experience, job hunting was
+                          </p>
+                          <p class="overwhelming-myfuse-offered">
+                            overwhelming. Myfuse offered me
+                          </p>
+                          <p class="opportunities-that-matched">
+                            opportunities that matched my skill set
+                          </p>
+                          <p class="and-experience-making">
+                            and experience, making it easier for me
+                          </p>
+                          <p class="to-start-my">
+                            to start my career in the field of
+                          </p>
+                        </span>
+                      </i>
+                    </div>
+                  </div>
+                  <div class="marketing-and-others-wrapper">
+                    <i class="marketing-and-others">marketing and others." </i>
+                  </div>
+                  <img class="icon31" alt="" src="./public/icon-31.svg" />
+                </div>
+              </div>
+              <div class="condition-splitter1">
+                <div class="input-value">
+                  <div class="button-go-to-slide-1"></div>
+                  <div class="button-go-to-slide-2"></div>
+                  <div class="button-go-to-slide-3"></div>
+                  <div class="button-go-to-slide-4"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="input-processor-inner">
+            <div class="frame-parent13">
+              <div class="heading-2-recent-blog-wrapper">
+                <div class="heading-28">Recent Blog</div>
+              </div>
+              <div class="stay-up-to-date-with">
+                Stay up-to-date with our latest insights and updates in our
+                Recent Blog. Explore our most recent articles and posts to gain
+                valuable knowledge on various topics.
+              </div>
+              <div class="heading-29"></div>
+            </div>
+          </div>
+          <div class="custom-function">
+            <div class="link-group">
+              <div class="link7">
+                <img
+                  class="myfuseinpng-icon2"
+                  alt=""
+                  src="./public/myfuseinpng-2@2x.png"
+                />
+
+                <div class="divblog-date">
+                  <b class="column-layout">23</b>
+                  <div class="jan">Jan</div>
+                </div>
+              </div>
+              <div class="divblog-cap">
+                <div class="technology">| Technology</div>
+                <h2 class="heading-3-container1">
+                  <span>
+                    <p class="unlocking-your">Unlocking Your</p>
+                    <p class="professional-future">Professional Future:</p>
+                  </span>
+                </h2>
+                <div class="link-read">Read more »</div>
+              </div>
+            </div>
+            <div class="link-parent1">
+              <div class="link8">
+                <img
+                  class="screenshot202023-11-2820at2-icon"
+                  loading="lazy"
+                  alt=""
+                  src="./public/screenshot202023112820at2011300420ampng@2x.png"
+                />
+
+                <div class="divblog-date1">
+                  <div class="wrapper">
+                    <b class="b2">28</b>
+                  </div>
+                  <div class="nov">Nov</div>
+                </div>
+              </div>
+              <div class="divblog-cap1">
+                <div class="e-commerce">| E commerce</div>
+                <h2 class="heading-33">Zepto</h2>
+                <div class="link-read1">Read more »</div>
+              </div>
+            </div>
+            <div class="link-parent2">
+              <div class="link9">
+                <img
+                  class="screenshot202023-11-2420at2-icon"
+                  loading="lazy"
+                  alt=""
+                  src="./public/screenshot202023112420at2012404320pmpng@2x.png"
+                />
+
+                <div class="divblog-date2">
+                  <div class="container">
+                    <b class="b3">24</b>
+                  </div>
+                  <div class="nov1">Nov</div>
+                </div>
+              </div>
+              <div class="divblog-cap2">
+                <div class="finance">| Finance</div>
+                <h2 class="heading-34">Zerodha</h2>
+                <div class="link-read2">Read more »</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer class="footer1">
+        <div class="component-instance">
+          <div class="raster-image-parent">
+            <div class="raster-image">
+              <h1 class="about-us">About US</h1>
+              <div class="shape-path">
+                <div class="unlock-endless-career-possibil-parent">
+                  <div class="unlock-endless-career-container">
+                    <p class="unlock-endless-career1">
+                      Unlock endless career possibilities with Myfuse – the
+                      platform that bridges
+                    </p>
+                    <p class="gap-between-students">
+                      gap between Students and Job opportunities in India..
+                    </p>
+                  </div>
+                  <div class="stroke-style">
+                    <img class="link-icon1" alt="" src="./public/link-1.svg" />
+
+                    <img class="link-icon2" alt="" src="./public/link-2.svg" />
+
+                    <img class="link-icon3" alt="" src="./public/link-3.svg" />
+
+                    <img class="link-icon4" alt="" src="./public/link-4.svg" />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="frame-wrapper7">
+              <div class="frame-parent14">
+                <div class="frame-wrapper8">
+                  <div class="frame-parent15">
+                    <div class="heading-4-useful-links-parent">
+                      <b class="heading-49">Useful Links</b>
+                      <div class="list-item16">Home</div>
+                      <div class="list-item17">About us</div>
+                      <div class="list-item18">Login</div>
+                      <div class="list-item19">Terms of service</div>
+                      <div class="list-item20">Privacy policy</div>
+                    </div>
+                    <div class="heading-4-our-services-parent">
+                      <b class="heading-410">Our Services</b>
+                      <div class="list-item21">Application</div>
+                      <div class="list-item22">Legal policy</div>
+                      <div class="list-item23">Systems</div>
+                      <div class="list-item24">About</div>
+                      <div class="list-item25">FAQ</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="copyright-2024-myfusein-container">
+                  <span class="copyright-2024-myfusein-container1">
+                    <span>Copyright ©2024</span>
+                    <b> MyFuse.In</b>
+                    <span>. All Rights Reserved</span>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="color-palette">
+            <div class="empowering-digital-experiences">
+              Empowering digital experiences, managed and developed by Ashutosh
+              Kumar
+            </div>
+          </div>
+        </div>
+        <div class="footer-inner">
+          <div class="heading-4-contact-us-parent">
+            <b class="heading-411">Contact Us</b>
+            <div class="myfusein-residency-rd-shanth-parent">
+              <div class="myfusein-residency-rd-container">
+                <p class="myfusein-residency-rd">
+                  MyFuse.in Residency Rd, Shanthala
+                </p>
+                <p class="nagar">Nagar</p>
+                <p class="ashok-nagar-bengaluru">Ashok Nagar, Bengaluru</p>
+                <p class="karnataka-560025">Karnataka 560025</p>
+              </div>
+              <div class="align-helper-parent">
+                <div class="align-helper">
+                  <div class="sizing-solution">
+                    <b class="strong-phone">Phone:</b>
+                  </div>
+                  <div class="blending-brain">+91 7975364977</div>
+                </div>
+                <div class="align-helper1">
+                  <div class="contactmyfusein-wrapper">
+                    <div class="contactmyfusein">contact@myfuse.in</div>
+                  </div>
+                  <b class="strong-email">Email:</b>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
